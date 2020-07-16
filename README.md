@@ -1,3 +1,3 @@
 # hello-world
-GitHub totorial
+GitHub totorial\n
 I like dogs
